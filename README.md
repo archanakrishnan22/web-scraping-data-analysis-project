@@ -21,4 +21,4 @@ To collect structured data from an online platform and convert it into a usable 
 - Exported data to CSV for further analysis
 
 ## Output
-- products_from_jumia.csv
+- [products_from_jumia](products_from_jumia.csv)
